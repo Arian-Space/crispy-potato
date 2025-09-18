@@ -15,7 +15,7 @@ Dionisus is a demo application designed to streamline the creation of restaurant
 ## Usage
 - Open the app and follow the guided setup to create a new menu.
 - Customize menu items, layouts, and designs manually.
-- Export your menu as a PDF or share it with your team.
+- Export your menu as a PDF and share it with your team.
 
 ## License
 This software is proprietary and distributed under an End-User License Agreement (**EULA**). Unauthorized copying, modification, or distribution is strictly prohibited. For full terms, see the [EULA](LICENSE.txt) included with the installer.
