@@ -4,11 +4,11 @@ Dionisus is a demo application designed to streamline the creation of restaurant
 
 ## Features
 - **Intuitive Menu Creation**: Easily design and customize restaurant menus with a clean, user-centric interface.
-- **Cross-Platform**: Available as installers for Windows, future interaction whit Linux, Android, macOS.
+- **Cross-Platform**: Available as installers for Windows, future interaction whit Linux, Android, macOS, and IOs.
 - **Future Enhancements**: AI-powered suggestions and cloud connectivity are planned for upcoming releases.
 
 ## Installation
-1. Download the appropriate installer for your operating system from the [Releases](https://github.com/Arian-Space/Dionisus_Donwloads_Versions/releases) section.
+1. Download the appropriate installer for your operating system from the [Releases](https://github.com/Arian-Space/crispy-potato/releases) section.
 2. Run the installer and follow the on-screen instructions.
 3. Launch Dionisus and start creating your menus!
 
