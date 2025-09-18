@@ -18,7 +18,7 @@ Dionisus is a demo application designed to streamline the creation of restaurant
 - Export your menu as a PDF and share it with your team.
 
 ## License
-This software is proprietary and distributed under an End-User License Agreement (**EULA**). Unauthorized copying, modification, or distribution is strictly prohibited. For full terms, see the [EULA]([LICENSE.txt](https://github.com/Arian-Space/crispy-potato/blob/main/LICENSE) included with the installer.
+This software is proprietary and distributed under an End-User License Agreement (**EULA**). Unauthorized copying, modification, or distribution is strictly prohibited. For full terms, see the [EULA]([LICENSE.txt](https://github.com/Arian-Space/crispy-potato/blob/main/LICENSE)) included with the installer.
 
 ## Contact
 For support or inquiries, contact **dionysuservices@gmail.com**.
